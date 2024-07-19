@@ -1,9 +1,9 @@
-import Image from "next/image";
+import AllComp from "./components/AllComp";
 
 export default function Home() {
   return (
     <main>
-      <h2>Demo</h2>
+      <AllComp />
     </main>
   );
 }
