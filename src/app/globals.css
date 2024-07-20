@@ -573,6 +573,9 @@ textarea {
     mmargin-top:28px;
   }
 
+  .contact, .projectsTitle {
+    margin-top: 81px; }
+
   .heroSection img {
     width: 90%;
   }
