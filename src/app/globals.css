@@ -558,6 +558,10 @@ textarea {
   .heroSection {
     height: 90vh;
   }
+
+  .btn{
+    height:65px;
+  }
   .heroSection img {
     width: 90%;
   }
