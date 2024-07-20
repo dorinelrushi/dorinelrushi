@@ -12,7 +12,7 @@ function HeroSection() {
         online presence. Let's make your brand stand out.
       </p>
       <button className="btn">
-        <Link href="/contact">Contact Now</Link>
+        <Link href="#contact">Contact Now</Link>
       </button>
       <Image
         src="demo.svg"
