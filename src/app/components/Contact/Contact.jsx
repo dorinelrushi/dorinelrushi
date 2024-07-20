@@ -45,7 +45,7 @@ function Contact() {
                 required
               ></textarea>
             </div>
-            <button type="submit" className="btn btn-lg btn-dark btn-block">
+            <button type="submit" className="btn btn-lg btn-dark btn-block mb-[35px]">
               Submit Form
             </button>
           </form>
