@@ -65,7 +65,7 @@ function Gumroad() {
             </p>
           </div>
           <div>
-            <Link href="d">
+            <Link href="https://d4461905418910.gumroad.com/">
               <div className="blurI flex min-w-full">
                 <h2 className="text-[15px] ml-[20px] text-[#dddddd]">
                   Donwload Now

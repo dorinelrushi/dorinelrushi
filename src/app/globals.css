@@ -37,7 +37,7 @@ body {
 .heroSection {
   background: url("./../../public/bg.png");
   background-size: cover;
-  background-position: 50% 698%;
+  background-position: 50% 299%;
   display: flex;
   justify-content: center;
   align-items: center;
