@@ -40,6 +40,7 @@ function Contact() {
               <textarea
                 placeholder="Your Message"
                 className="form-control"
+                name='message'
                 rows="10"
                 required
               ></textarea>
