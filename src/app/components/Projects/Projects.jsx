@@ -9,8 +9,7 @@ function Projects() {
         My Projects
       </h2>
       <p className="paras text-center  mb-[45px]">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet
-        perferendis neque libero dolorem soluta impedit.
+      Welcome to my project showcase! Here, you'll find a collection of my recent work
       </p>
       <div className="flex flex-col md:flex-row w-[90%] md:w-[80%] lg:w-[50%] m-auto gap-[30px]">
         <div className="social10 w-full md:w-[100%] h-[550px] rounded-[25px]">
