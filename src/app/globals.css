@@ -559,8 +559,8 @@ textarea {
     height: 90vh;
   }
 
-  .btn{
-    height:65px;
+  .btn a{
+    height:65px !important;
   }
   .heroSection img {
     width: 90%;
