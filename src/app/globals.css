@@ -20,7 +20,7 @@ body {
 }
 
 .pl {
-  margin-bottom:25px;
+  margin-bottom:29px;
 }
 .thetitle {
   font-size: 2.5rem;
@@ -265,7 +265,7 @@ form {
   border-radius: 20px;
   background: linear-gradient(150deg, #dfdcdc17 -1.58%, #000000 257.99%);
   padding: 30px;
-  margin: auto 10px auto 29px;
+  margin: auto 10px auto 0px;
   padding-bottom:20px;
 }
 input,
