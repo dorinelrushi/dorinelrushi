@@ -5,7 +5,7 @@ function Contact() {
     <div className="bg3" id="contact">
       <div className="text-center m-auto ">
         <h2 className="contact">Contact Us</h2>
-        <p>
+        <p className='pl'>
           Please don't hesitate to reach out with any questions, feedback, or
           suggestions you may have
         </p>
