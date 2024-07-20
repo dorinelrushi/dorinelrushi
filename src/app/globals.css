@@ -15,6 +15,9 @@ body {
   scroll-behavior: smooth;
 }
 
+.paragraph {
+  font-size: 20px;
+}
 .thetitle {
   font-size: 2.5rem;
   font-weight: bold;
@@ -31,7 +34,6 @@ body {
   background: url("./../../public/bg.png");
   background-size: cover;
   background-position: 50% 698%;
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -42,9 +44,8 @@ body {
 .btn {
   width: 200px;
   height: 50px;
-
   border-radius: 80px;
-  font-size: 1.2em;
+  font-size: 1.1em;
   font-weight: 500;
   color: #0a0a0a;
 
@@ -391,7 +392,10 @@ textarea {
   }
   .heroSection {
     height: 100%;
-    height: 100vh;
+    height: auto;
+  }
+  .btn {
+    height: 30px;
   }
   .heroSection img {
     width: 700px;
@@ -501,13 +505,16 @@ textarea {
 
 @media only screen and (max-width: 600px) {
   .thetitle {
-    font-size: 20px;
+    font-size: 25px;
+    max-width: 290px;
   }
   .paragraph {
-    width: 400px;
+    width: 355px;
+    font-size: 16px;
   }
   .textGra {
     font-size: 29px;
+    margin-bottom: 10px;
     line-height: 38px;
   }
   .projectOur {
@@ -556,12 +563,13 @@ textarea {
     margin-bottom: -80px;
   }
   .heroSection {
-    height: 90vh;
+    height: auto;
   }
 
-  .btn a{
-    height:65px !important;
+  .btn {
+    height: 50px;
   }
+
   .heroSection img {
     width: 90%;
   }
