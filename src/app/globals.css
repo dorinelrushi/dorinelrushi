@@ -569,6 +569,9 @@ textarea {
   .btn {
     height: 50px;
   }
+  .bg3{
+    mmargin-top:28px;
+  }
 
   .heroSection img {
     width: 90%;
