@@ -3,7 +3,7 @@ import { FaInstagram, FaBehance, FaDribbble } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="bg-[#0c0c0c] text-white py-16 relative">
+    <footer className="bg-[#0c0c0c] text-white py-16 relative mt-[25px]">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-16">
         {/* Column 1: Logo, Email, and Mobile Number */}
         <div className="relative">
