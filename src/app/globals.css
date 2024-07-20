@@ -261,7 +261,7 @@ form {
   border-radius: 20px;
   background: linear-gradient(150deg, #dfdcdc17 -1.58%, #000000 257.99%);
   padding: 30px;
-  margin: auto;
+  margin: auto 10px auto 20px;
   padding-bottom:20px;
 }
 input,
@@ -292,6 +292,7 @@ textarea {
   -webkit-text-fill-color: transparent;
   font-size: 3em;
   text-align: center;
+  margin-top:15px;
 }
 
 .projectsTitle {
