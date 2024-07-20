@@ -2,7 +2,7 @@ import React from "react";
 
 function Contact() {
   return (
-    <div className="bg3" id="contact">
+    <div className="bg3 mt-[38px]" id="contact">
       <div className="text-center m-auto ">
         <h2 className="contact">Contact Us</h2>
         <p>
