@@ -20,7 +20,7 @@ function Projects() {
             </p>
           </div>
           <div>
-            <Link href="/https://www.behance.net/dorinelrushi">
+            <Link href="https://www.behance.net/dorinelrushi">
               <div className="blurI flex min-w-full">
                 <h2 className="text-[15px] ml-[20px] text-[#c5c5c5]">
                   Visit the portfolio
