@@ -247,7 +247,7 @@ body {
   height: 100vh;
   background: url("./../../public/bg1.jpg");
   background-size: cover;
-  background-position: 50% 10%;
+  background-position: 50% -20%;
 }
 
 .bg3 {
@@ -391,10 +391,20 @@ textarea {
   text-align: center;
 }
 
+
+
+@media only screen and (max-width: 1349px){
+  .bg2{
+    width: auto;
+    height: auto;
+  }
+ 
+}
+
 @media only screen and (max-width: 1143px){
   .testi {
       font-size: 3.5em;
-      margin-top: 63px;
+     
   }
   .paras {
     text-align: center;
@@ -403,6 +413,7 @@ textarea {
     margin-bottom: 40px;
   }
 }
+
 
 @media only screen and (max-width: 900px) {
   .thetitle {
