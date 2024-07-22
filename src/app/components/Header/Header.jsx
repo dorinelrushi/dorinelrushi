@@ -22,20 +22,6 @@ function Header() {
     setMenuVisible(!menuVisible);
   };
 
-  const handleMenuClick = (event, section) => {
-    event.preventDefault();
-    setMenuVisible(false);
-
-    if (section === "#home" || section === "#about") {
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    } else {
-      const targetElement = document.querySelector(section);
-      if (targetElement) {
-        targetElement.scrollIntoView({ behavior: "smooth" });
-      }
-    }
-  };
-
   return (
     <div
       className={`fixed z-20 w-full ${
@@ -72,30 +58,16 @@ function Header() {
           <h2 className="text-xl mb-4">Menu</h2>
           <ul className="text-center">
             <li className="mb-2">
-              <a href="#home" onClick={(e) => handleMenuClick(e, "#home")}>
-                Home
-              </a>
+              <a href="/">Home</a>
             </li>
             <li className="mb-2">
-              <a href="#about" onClick={(e) => handleMenuClick(e, "#about")}>
-                About
-              </a>
+              <a href="/About">About</a>
             </li>
             <li className="mb-2">
-              <a
-                href="#services"
-                onClick={(e) => handleMenuClick(e, "#services")}
-              >
-                Services
-              </a>
+              <a href="/#services">Services</a>
             </li>
             <li className="mb-2">
-              <a
-                href="#contact"
-                onClick={(e) => handleMenuClick(e, "#contact")}
-              >
-                Contact
-              </a>
+              <a href="/#contact">Contact</a>
             </li>
           </ul>
         </div>
