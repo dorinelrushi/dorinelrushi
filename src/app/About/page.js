@@ -15,8 +15,8 @@ function About  () {
         <h3 className='font-bold text-[19px]'>Dorinel Rushi</h3>
       </div>
       {/* levels */}
-      <div className='flex justify-between mt-[19px] border-b-[1px] border-[#333333] pb-[19px] border-[#aaaa]'>
-        <h2>My Level</h2>
+      <div className='flex justify-between mt-[19px] border-b-[1px] border-b-[#333333] pb-[19px] border-[#aaaa]'>
+        <h2 >My Level</h2>
         <h3 className='font-bold'>Best seller</h3>
       </div>
       {/* Score */}
@@ -39,7 +39,7 @@ function About  () {
       </div>
       {/*button */}
       <Link href='/#contact'>
-      <button className='border-[0.5px] border-[#333333] w-[100%] rounded-[8px] py-[13px] mt-[19px] mb-[10px]'>
+      <button className='border-[0.5px] border-[#333333] w-[100%] rounded-[8px] py-[13px] mt-[19px] mb-[10px] bg-[#00b22d]'>
        Lets Collaborate
       </button>
      </Link>
@@ -73,13 +73,13 @@ function About  () {
      <h2 className='font-bold text-[19px] mb-[15px]'>Career</h2>
      <div className='career'>
       <h2 className='font-bold'>2019 - 2020</h2>
-      <p>Started as Freelancer working for client in my country</p>
-      <div className='h-[100px]  border-l-[0.5px] mt-[10px] mb-[10px] border-dashed'></div>
+      <p className='max-w-[750px] text-[15px] mt-[15px]'>Started as a freelancer, working for various clients and companies in my country. Focused on web design and front-end development, enhancing my skills in HTML, CSS, JavaScript, and design tools like Figma and Photoshop.</p>
+      <div className='h-[100px]  border-l-[0.5px] mt-[10px] mb-[10px] border-dashed border-[#333333]'></div>
       <h2 className='font-bold'>2021 - 2024</h2>
-      <p>Started Working for Paeon Marketing for 3 Years as Web designer and Developer </p>
-      <div className='h-[100px]  border-l-[0.5px] mt-[10px] mb-[10px] border-dashed'></div>
+      <p className='max-w-[750px] text-[15px] mt-[15px]'>Started working for Paeon Marketing for 3 years as a web designer and developer, focusing on creating engaging and responsive websites, improving user experiences, and collaborating on various marketing projects.</p>
+      <div className='h-[100px]  border-l-[0.5px] mt-[10px] mb-[10px] border-dashed border-[#333333]'></div>
       <h2 className='font-bold'>2024 - Continue </h2>
-      <p>I am building my own company </p>
+      <p className='max-w-[750px] text-[15px] mt-[15px]'>I am building my own company, focusing on delivering innovative web design and development solutions. My goal is to create a unique brand that excels in providing exceptional digital experiences for clients. </p>
      </div>
      </div>
     </div>
