@@ -410,6 +410,14 @@ textarea {
   text-align: center;
 }
 
+@media only screen and (max-width: 1690px){
+  .bg2{
+    width: auto;
+    height: auto;
+  }
+ 
+}
+
 
 
 @media only screen and (max-width: 1349px){

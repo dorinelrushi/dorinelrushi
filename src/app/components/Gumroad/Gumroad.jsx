@@ -12,8 +12,8 @@ function Gumroad() {
             Selling <br /> Digital Products
           </h2>
           <p className="max-w-[550px] mt-[25px] text-[20px] text-[#ffffff]">
-            We sell digital products to help others. Our platform simplifies the
-            process, making it easy and efficient. Join us to experience the
+            I sell digital products to help others. My platform simplifies the
+            process, making it easy and efficient. Join to experience the
             benefits and provide real value to your customers.
           </p>
           <ul className="mt-[25px] flex  gap-[10px]  flex-wrap">
