@@ -21,10 +21,10 @@ function FillTheForm () {
             <label>Do you have website? / Keni Website?</label>
           <div className='flex gap-[20px] mt-[15px]'>
           <div className='flex gap-[15px]'>
-          <p>Yes</p><input type='radio' className='mt-[6px]'  name='Website' value='yes' required/>
+          <p>Yes</p><input type='radio' className='mt-[6px]'  name='Websites' value='yes' required/>
           </div>
           <div className='flex gap-[15px]'>
-         <p>no</p><input type='radio' className='mt-[6px]' name='Website'  value='no' required/>
+         <p>no</p><input type='radio' className='mt-[6px]' name='Websites'  value='no' required/>
          </div>
           </div>
             <input className='mb-[22px] mt-[10px]'  type='text' name='Website'  placeholder='e.g www.website.com' required/>
