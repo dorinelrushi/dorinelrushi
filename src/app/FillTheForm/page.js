@@ -3,7 +3,7 @@ import React from 'react'
 function FillTheForm () {
   return (
     <div>
-        <div className='w-[80%] m-auto pt-[90px]'>
+        <div className='lgForm w-[80%] m-auto pt-[90px]'>
             <h2 className='font-bold text-[30px] tracking-[1px]'>Fill The Form</h2>
           <form
             action="https://formsubmit.co/dorinelrushi8@gmail.com"

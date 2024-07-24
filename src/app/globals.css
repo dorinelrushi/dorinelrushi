@@ -565,6 +565,9 @@ textarea {
 }
 
 @media only screen and (max-width: 600px) {
+  .lgForm{
+    width: 92%;
+  }
   .thetitle {
     font-size: 25px;
     max-width: 290px;
