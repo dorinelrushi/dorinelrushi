@@ -48,6 +48,7 @@ function Contact() {
             <button type="submit" className="btn btn-lg btn-dark btn-block mb-[35px]">
               Submit Form
             </button>
+            <input type="hidden" name="_captcha" value="false" />
           </form>
         </div>
       </div>
