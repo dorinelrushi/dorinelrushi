@@ -20,12 +20,47 @@ const Footer = () => {
         <div className="relative">
           <h3 className="font-bold mb-6 text-lg">Services</h3>
           <ul>
+              
+          <li>
+              <a
+                href="#services"
+                className="hover:text-gray-300 transition duration-300 mb-2 block"
+              >
+                Logo
+              </a>
+            </li>
             <li>
               <a
                 href="#services"
                 className="hover:text-gray-300 transition duration-300 mb-2 block"
               >
-                Social Media
+             Social Media Management
+              </a>
+            </li>
+            <li>
+              <a
+                href="#services"
+                className="hover:text-gray-300 transition duration-300 mb-2 block"
+              >
+           Social cover / Posts
+              </a>
+            </li>
+                
+                
+          <li>
+              <a
+                href="#services"
+                className="hover:text-gray-300 transition duration-300 mb-2 block"
+              >
+                Business card
+              </a>
+            </li>
+            <li>
+              <a
+                href="#services"
+                className="hover:text-gray-300 transition duration-300 mb-2 block"
+              >
+               SEO
               </a>
             </li>
             <li>
