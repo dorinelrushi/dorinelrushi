@@ -16,7 +16,7 @@ function Services() {
             className="mt-[5px]"
           />
           <h2 className="textGra">
-            your online <span className="font-bold">presence</span> with our
+            your online <span className="font-bold">presence</span> with my
             expert services!
           </h2>
         </div>

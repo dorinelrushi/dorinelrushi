@@ -16,7 +16,7 @@ function Projects() {
           <div>
             <h2 className="text-[30px] font-bold">Behance Portfolio</h2>
             <p className="max-w-[320px] m-auto">
-              You can see our portfolio for every clients we worked
+              You can see my portfolio for every clients I worked
             </p>
           </div>
           <div>
@@ -36,7 +36,7 @@ function Projects() {
           <div>
             <h2 className="text-[30px] font-bold">Dribble Portfolio</h2>
             <p className="max-w-[320px] m-auto">
-              You can see our portfolio for every clients we worked
+              You can see My portfolio for every clients I worked
             </p>
           </div>
           <div>
@@ -56,9 +56,9 @@ function Projects() {
       {/* third */}
       <div className="social12 w-[90%] md:w-[80%] lg:w-[50%] mt-[30px] m-auto h-[600px] rounded-[25px]">
         <div>
-          <h2 className="text-[30px] font-bold">linkedIn</h2>
+          <h2 className="text-[30px] font-bold">LinkedIn</h2>
           <p className="max-w-[320px] m-auto">
-            Discover our professional journey and client success stories on
+            Discover my professional journey and client success stories on
             LinkedIn
           </p>
         </div>

@@ -66,12 +66,12 @@ const testimonialsData = [
     position: "Marketing Head, Company XYZ",
   },
   {
-    text: "Highly professional team with outstanding results. Will definitely work with them again.",
+    text: "Highly professional with outstanding results. Will definitely work with Dorinel again.",
     name: "Alice Johnson",
     position: "CTO, Tech Solutions",
   },
   {
-    text: "Their expertise and dedication made our project a huge success. Highly recommended.",
+    text: "Their expertise and dedication made my project a huge success. Highly recommended.",
     name: "Michael Brown",
     position: "Project Manager, ABC Corp.",
   },
@@ -81,12 +81,12 @@ const testimonialsData = [
     position: "Founder, Startup Co.",
   },
   {
-    text: "Incredible results and a great team to work with. We couldn't be happier.",
+    text: "Incredible results and a great Developer to work with. We couldn't be happier.",
     name: "Chris Wilson",
     position: "Director, Creative Agency",
   },
   {
-    text: "Professional and dedicated team. Delivered beyond expectations.",
+    text: "Professional and dedicated Designer. Delivered beyond expectations.",
     name: "Anna White",
     position: "HR Manager, Global Corp.",
   },

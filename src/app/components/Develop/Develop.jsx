@@ -55,8 +55,8 @@ function Develop() {
                 Planning and Research
               </h2>
               <p className="text-[#f8f8f8e1] ">
-                We define your website’s purpose, target audience, and key
-                features. We conduct research on competitors and gather
+                I define your website’s purpose, target audience, and key
+                features. I conduct research on competitors and gather
                 inspiration.
               </p>
             </div>
@@ -76,8 +76,8 @@ function Develop() {
                 Design and Prototyping
               </h2>
               <p className="text-[#f8f8f8e1]">
-                We use Figma to create wireframes and high-fidelity prototypes.
-                Starting with basic layouts, we add details and use Figma’s
+                I use Figma to create wireframes and high-fidelity prototypes.
+                Starting with basic layouts, I add details and use Figma’s
                 collaboration features for feedback.
               </p>
             </div>
@@ -97,8 +97,8 @@ function Develop() {
                 Development and Testing
               </h2>
               <p className="text-[#f8f8f8e1]">
-                We set up projects with Next.js, using file-based routing and
-                API routes. We manage state with React hooks and context,
+                I set up projects with Next.js, using file-based routing and
+                API routes. I manage state with React hooks and context,
                 ensuring modular code.
               </p>
             </div>
@@ -120,7 +120,7 @@ function Develop() {
                 Deployment
               </h2>
               <p className="text-[#f8f8f8e1]">
-                We connect Vercel to GitHub for automatic deployments. Vercel’s
+                I connect Vercel to GitHub for automatic deployments. Vercel’s
                 features like custom domains, SSL, and serverless functions
                 enhance performance.
               </p>
@@ -141,8 +141,8 @@ function Develop() {
                 Maintenance
               </h2>
               <p className="text-[#f8f8f8e1]">
-                We test across devices and browsers, using Lighthouse for
-                audits. We optimize images and code to improve loading times.
+                I test across devices and browsers, using Lighthouse for
+                audits. I optimize images and code to improve loading times.
               </p>
             </div>
             {/* box */}
@@ -161,8 +161,8 @@ function Develop() {
                 Optimization
               </h2>
               <p className="text-[#f8f8f8e1]">
-                Optimize your website for better performance and user
-                experience. Implement SEO best practices to improve search
+                I Optimize your website for better performance and user
+                experience. Implementing SEO to improve search
                 engine rankings.
               </p>
             </div>
