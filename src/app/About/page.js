@@ -81,6 +81,18 @@ function About  () {
       <h2 className='font-bold'>2024 - Continue </h2>
       <p className='max-w-[750px] text-[15px] mt-[15px]'>I am building my own company, focusing on delivering innovative web design and development solutions. My goal is to create a unique brand that excels in providing exceptional digital experiences for clients. </p>
      </div>
+      {/*project */}
+      <h2 className='font-bold text-[19px] mt-[30px] mb-[20px]'>My Projects</h2>
+      <div className=''>
+        <div className='flex gap-[25px] flex-wrap'>
+        <iframe src="https://www.behance.net/embed/project/203135475?ilo0=1" height="316" width="404"  allow="clipboard-write" allowFullScreen ></iframe>
+        <iframe src="https://www.behance.net/embed/project/195931865?ilo0=1" height="316" width="404" allow="clipboard-write"  allowFullScreen></iframe>
+        <iframe src="https://www.behance.net/embed/project/196554531?ilo0=1" height="316" width="404" allow="clipboard-write"  allowFullScreen></iframe>
+        <iframe src="https://www.behance.net/embed/project/195658461?ilo0=1" height="316" width="404" allow="clipboard-write"  allowFullScreen></iframe>
+        <iframe src="https://www.behance.net/embed/project/191059297?ilo0=1" height="316" width="404" allow="clipboard-write"  allowFullScreen></iframe>
+        <iframe src="https://www.behance.net/embed/project/193369931?ilo0=1" height="316" width="404" allow="clipboard-write"  allowFullScreen></iframe>
+        </div>
+      </div>
      </div>
     </div>
   )
