@@ -15,7 +15,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <Script async type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=XWXiHp" />
+    
       <Script id="hotjar-script" strategy="afterInteractive">
         {`
           (function(h,o,t,j,a,r){
