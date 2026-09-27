@@ -3,7 +3,7 @@ export const projects = [
     id: "1",
     slug: "trytofindeverything",
     title: "Try to find Everything",
-    category: "Next.js & Tailwind CSS",
+    category: "Next.js & Tailwind",
     shortDescription: "High-performance dark mode luxury retail store built with Next.js App Router, Tailwind CSS, and custom UI components.",
     coverImage: "/one.png",
     gallery: [
@@ -30,7 +30,7 @@ export const projects = [
     id: "2",
     slug: "lumovia",
     title: "Lumovia",
-    category: "Next.js & Tailwind CSS",
+    category: "Next.js & Tailwind",
     shortDescription: "Futuristic dark SaaS analytics dashboard for monitoring real-time network security threats and database metrics.",
     coverImage: "/two.png",
     gallery: [
@@ -56,7 +56,7 @@ export const projects = [
     id: "3",
     slug: "usaalbtv",
     title: "UsAlbtv",
-    category: "WordPress & CMS Platform",
+    category: "WordPress & CMS",
     coverImage: "/three.png",
     gallery: [
       "/three.png",
@@ -82,7 +82,7 @@ export const projects = [
     id: "4",
     slug: "aventouralbania",
     title: "Aventour Albania",
-    category: "WordPress & CMS Platform",
+    category: "WordPress & CMS",
     coverImage: "/four.png",
     gallery: [
       "/four.png",
